@@ -1,0 +1,8 @@
+## Interface: 11503, 40400, 110000, 110002 
+## Title: SharedMedia_Ayarei
+## IconTexture: Interface\AddOns\SharedMedia_Ayarei\icons\logo
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+MyMedia.lua 

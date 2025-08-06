@@ -1,4 +1,4 @@
-## Interface: 111700, 112000
+## Interface: 110107, 110200
 ## Title: SharedMedia_Ayarei
 ## IconTexture: Interface\AddOns\XMT_Desync\icons\logo
 

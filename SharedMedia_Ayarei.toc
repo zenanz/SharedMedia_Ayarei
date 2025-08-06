@@ -1,6 +1,6 @@
-## Interface: 11503, 40400, 110000, 110002, 110100 
+## Interface: 11503, 40400, 110000, 110002, 110100, 111700, 112000
 ## Title: SharedMedia_Ayarei
-## IconTexture: Interface\AddOns\SharedMedia_Ayarei\icons\logo
+## IconTexture: Interface\AddOns\XMT_Desync\icons\logo
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua

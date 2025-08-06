@@ -22,8 +22,6 @@ LSM:Register("sound", "3", [[Interface\Addons\SharedMedia_Ayarei\sound\3.ogg]])
 LSM:Register("sound", "4", [[Interface\Addons\SharedMedia_Ayarei\sound\4.ogg]]) 
 LSM:Register("sound", "5", [[Interface\Addons\SharedMedia_Ayarei\sound\5.ogg]]) 
 LSM:Register("sound", "5秒倒计时", [[Interface\Addons\SharedMedia_Ayarei\sound\5秒倒计时.ogg]]) 
-LSM:Register("sound", "ayareilust_koi", [[Interface\Addons\SharedMedia_Ayarei\sound\ayareilust_koi.mp3]]) 
-LSM:Register("sound", "ayareilust_tothemoon", [[Interface\Addons\SharedMedia_Ayarei\sound\ayareilust_tothemoon.mp3]]) 
 LSM:Register("sound", "boss点你", [[Interface\Addons\SharedMedia_Ayarei\sound\boss点你.ogg]]) 
 LSM:Register("sound", "一", [[Interface\Addons\SharedMedia_Ayarei\sound\一.ogg]]) 
 LSM:Register("sound", "三", [[Interface\Addons\SharedMedia_Ayarei\sound\三.ogg]]) 
@@ -75,7 +73,14 @@ LSM:Register("sound", "易伤阶段", [[Interface\Addons\SharedMedia_Ayarei\soun
 LSM:Register("sound", "远离人群", [[Interface\Addons\SharedMedia_Ayarei\sound\远离人群.ogg]]) 
 LSM:Register("sound", "注意转火", [[Interface\Addons\SharedMedia_Ayarei\sound\注意转火.ogg]]) 
 LSM:Register("sound", "准备小怪", [[Interface\Addons\SharedMedia_Ayarei\sound\准备小怪.ogg]]) 
-
+LSM:Register("sound", "阶段转换", [[Interface\Addons\SharedMedia_Ayarei\sound\阶段转换.ogg]]) 
+LSM:Register("sound", "准备射线", [[Interface\Addons\SharedMedia_Ayarei\sound\准备射线.ogg]]) 
+LSM:Register("sound", "注意吃魂", [[Interface\Addons\SharedMedia_Ayarei\sound\注意吃魂.ogg]]) 
+LSM:Register("sound", "安全", [[Interface\Addons\SharedMedia_Ayarei\sound\安全.ogg]]) 
+LSM:Register("sound", "注意分隔", [[Interface\Addons\SharedMedia_Ayarei\sound\注意分隔.ogg]]) 
+LSM:Register("sound", "准备传送", [[Interface\Addons\SharedMedia_Ayarei\sound\准备传送.ogg]]) 
+LSM:Register("sound", "准备缴械", [[Interface\Addons\SharedMedia_Ayarei\sound\准备缴械.ogg]]) 
+LSM:Register("sound", "准备撞球", [[Interface\Addons\SharedMedia_Ayarei\sound\准备撞球.ogg]]) 
 -- -----
 --   STATUSBAR
 -- -----
